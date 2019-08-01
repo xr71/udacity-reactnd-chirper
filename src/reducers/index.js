@@ -3,7 +3,7 @@ import authedUser from './authedUser'
 import users from './users'
 import tweets from './tweets'
 
-export default function combineReducers ({
+export default combineReducers ({
     authedUser,
     users,
     tweets
